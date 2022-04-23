@@ -1,0 +1,1 @@
+stale vegetable detection model
