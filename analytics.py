@@ -12,5 +12,3 @@ data['pie_counts'][classification]+=1
 with open('analytics_data.json', 'w') as outfile:
     json.dump(data, outfile)
 
-f.close()
-
